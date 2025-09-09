@@ -128,7 +128,7 @@
 
   <header>
     <img src="C:\Users\keert\OneDrive\Pictures\Screenshots\Screenshot 2025-08-09 123502.png" alt="Photo" />
-    <h1>S.MALAVIKA SRI</h1>
+    <h1>K.Janani</h1>
     <p><strong>State Handball Player</strong> | Athlete | Sports Enthusiast</p>
   </header>
 
